@@ -36,4 +36,4 @@ To build real-world GenAI applications, LLM pipelines, and RAG systems, strong c
 ## 🚀 How to Run the Programs
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Dinesh1535/python-for-genai-basics.git
+   git clone https://github.com/Dinesh1535/30-days-python-practice/edit/main/README.md
