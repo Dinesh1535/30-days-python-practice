@@ -118,7 +118,7 @@ Each task should produce clear, readable output that demonstrates:
 - Clean formatting and organization
 
 Make sure your functions are reusable and well-documented.
-
+00
 ---
 
 ## **Submission Checklist**
