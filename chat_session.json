@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Explain gravity in one sentence."
+  },
+  {
+    "role": "assistant",
+    "content": "Gravity is the force that pulls masses toward each other."
+  }
+]

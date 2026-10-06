@@ -1,0 +1,4 @@
+Introduction to AI
+Machine Learning basics
+Deep Learning architectures
+Generative AI applications
